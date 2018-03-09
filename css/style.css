@@ -1,0 +1,28 @@
+.main{
+	margin-left: 100px;
+	background-color: gray;
+}
+.view{
+	width: 100px;
+    background-color: #2F4F4F;
+    margin-left: 390px;
+}
+.body{
+	margin-left: 360px;
+
+}
+img{
+	    height: 107px;
+    	width: 140px;
+   	    margin-top:20px;    	
+}
+img:hover{
+	transform: scale(2,2);
+}
+.line{
+	display: flex;
+}
+.together{
+	margin-left: 30px;
+}
+
